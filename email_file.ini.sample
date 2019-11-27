@@ -1,0 +1,9 @@
+[DEFAULT]
+From            = someone@example.com
+To              = ["recipient@example.com"]
+Subject         = Scanned Document
+Body            = Hot off the press
+Server          = mail.example.com
+Server_SSL      = True
+Server_Username = user
+Server_Password = pass
